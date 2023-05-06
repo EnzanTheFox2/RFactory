@@ -1,0 +1,45 @@
+{
+  "mod_elements": [
+    {
+      "name": "Sss",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sss",
+      "metadata": {
+        "files": [
+          "src/main/data/hmm/worldgen/biome/sss.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.hmm.sss": "Sss"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hmm",
+    "modName": "Hmm",
+    "version": "1.0.0",
+    "author": "enzan, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-1.18.x",
+    "modElementsPackage": "net.mcreator.hmm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}
